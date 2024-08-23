@@ -10,13 +10,20 @@
 To perform regular differncing,seasonal adjustment and log transformatio on Google stock price data
 ### ALGORITHM:
 Import libraries like pandas, numpy, and matplotlib.
+
 Load the dataset using pandas.
+
 Check for missing values and handle them if necessary.
+
 Apply differencing to remove trends in the data.
+
 Remove seasonality by differencing at the seasonal lag.
+
 Apply log transformation to stabilize variance.
+
 Visualize the data before and after applying each transformation.
-Display Results: Print and plot the results.
+
+Print and plot the results.
 ### PROGRAM:
 ```
 import pandas as pd
