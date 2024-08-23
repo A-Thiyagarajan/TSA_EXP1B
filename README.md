@@ -4,7 +4,7 @@
 
 
 # Ex.No: 1B                     CONVERSION OF NON STATIONARY TO STATIONARY DATA
-# Date: 
+
 
 ### AIM:
 To perform regular differncing,seasonal adjustment and log transformatio on Google stock price data
